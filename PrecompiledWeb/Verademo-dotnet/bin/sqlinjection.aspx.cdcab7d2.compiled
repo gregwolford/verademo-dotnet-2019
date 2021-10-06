@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/SqlInjection.aspx" hash="fffffffefa01b892" filehash="fffffb4eccde17e6" flags="110000" assembly="App_Web_sqlinjection.aspx.cdcab7d2" type="ASP.sqlinjection_aspx">
+    <filedeps>
+        <filedep name="/SqlInjection.aspx" />
+    </filedeps>
+</preserve>
